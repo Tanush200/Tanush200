@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanush Saha</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-- 🌱 I’m currently learning **TYPESCRIPT & NEXT.JS**
+- 🌱 I’m currently learning **DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
